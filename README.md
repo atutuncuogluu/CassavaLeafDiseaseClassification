@@ -71,4 +71,3 @@
 
 ---
 
-This markdown text covers the main points of the report in a clear and simple way, suitable for a general audience.
