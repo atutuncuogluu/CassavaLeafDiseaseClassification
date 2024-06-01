@@ -1,6 +1,4 @@
-Here is a simplified and clear explanation of the report in English, suitable for a GitHub Markdown (.md) file:
 
----
 
 # Project Report
 
