@@ -14,8 +14,7 @@ Here is a simplified and clear explanation of the report in English, suitable fo
 - Class distribution in the dataset is unbalanced.
 - Visualizations were created to show class distribution and sample images from the dataset.
 
-![Class Distribution](path_to_image1)
-![Sample Images](path_to_image2)
+
 
 ## Step 2 - Literature Review
 
@@ -23,7 +22,7 @@ Here is a simplified and clear explanation of the report in English, suitable fo
 - In the project, Cutout and Cutmix techniques were used.
 - Data augmentation was performed using the Torchvision library with methods like random flip, random rotation, Gaussian blur, color jitter, random resized crop, and normalization based on ImageNet dataset values.
 
-![Augmentation Techniques](path_to_image3)
+
 
 ## Step 3 - Preparing Functions and Files for Training
 
@@ -37,23 +36,21 @@ Here is a simplified and clear explanation of the report in English, suitable fo
 ### GoogleNet
 - The original paper was found and the architecture was implemented accordingly.
 
-![GoogleNet](path_to_image4)
+
 
 ### AlexNet
 - The architecture was implemented as per course materials.
 
-![AlexNet](path_to_image5)
+
 
 ### VGGNet
 - Several versions were considered, and the chosen architecture was based on course materials.
-
-![VGGNet](path_to_image6)
 
 ### ResNet
 - The original paper was consulted.
 - Basic block and bottleneck block were used to create ResNet34 and ResNet152 variations.
 
-![ResNet](path_to_image7)
+
 
 ## Step 5 - Creating Model, Training, and Testing Functions
 
